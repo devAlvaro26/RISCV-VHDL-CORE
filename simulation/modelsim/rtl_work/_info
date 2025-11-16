@@ -1,0 +1,371 @@
+m255
+K4
+z2
+!s11f vlog 2020.2 2020.04, Apr 19 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/simulation/modelsim
+T_opt
+!s110 1736872920
+V6FF8nMHC=YBG:PN@cV=SJ1
+04 7 4 work TB_RISC fast 0
+=1-089798982a65-678693d7-2b2-2020
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2020.2;71
+vALU
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1736872916
+!i10b 1
+!s100 IWncKDTUk981NK<m4aU`O0
+Z4 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IK0ZDB1GX3b2NGM`_W9o<41
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1735043190
+8C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/ALU.sv
+FC:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/ALU.sv
+!i122 2
+L0 17 88
+Z6 OL;L;2020.2;71
+r1
+!s85 0
+31
+Z7 !s108 1736872916.000000
+!s107 C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/ALU.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4|C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/ALU.sv|
+!i113 0
+Z8 o-sv -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z9 !s92 -sv -work work +incdir+C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@a@l@u
+vALU_CONTROL
+R2
+Z10 !s110 1736872917
+!i10b 1
+!s100 54abgIj3KFYWoZioC9mBJ2
+R4
+I@:dI^?PfF<202feOoHHHU1
+R5
+S1
+R0
+w1735043224
+8C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/ALU_CONTROL.sv
+FC:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/ALU_CONTROL.sv
+!i122 3
+L0 17 75
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/ALU_CONTROL.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4|C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/ALU_CONTROL.sv|
+!i113 0
+R8
+R9
+R1
+n@a@l@u_@c@o@n@t@r@o@l
+vControl
+R2
+R10
+!i10b 1
+!s100 ikAH1o6A6k^z0HH2Qi3_H1
+R4
+I94VY9[3aWdJA7<iQ@`>J00
+R5
+S1
+R0
+w1735043248
+8C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/Control.sv
+FC:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/Control.sv
+!i122 4
+L0 17 137
+R6
+r1
+!s85 0
+31
+Z11 !s108 1736872917.000000
+!s107 C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/Control.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4|C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/Control.sv|
+!i113 0
+R8
+R9
+R1
+n@control
+vCORE
+R2
+R3
+!i10b 1
+!s100 <J@]CSGWYoNQzz_Ydbb8d0
+R4
+IRA`b9oXizE_a<F6IX]oII2
+R5
+S1
+R0
+w1735403416
+8C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/CORE.sv
+FC:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/CORE.sv
+!i122 1
+L0 17 101
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/CORE.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4|C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/CORE.sv|
+!i113 0
+R8
+R9
+R1
+n@c@o@r@e
+vDecoder
+R2
+Z12 !s110 1736872918
+!i10b 1
+!s100 a_Ak?61=S3k[;?@W;XVoL3
+R4
+If3>>OTNi]`bNm^822b^g<1
+R5
+S1
+R0
+w1735402302
+8C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/Decoder.sv
+FC:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/Decoder.sv
+!i122 10
+L0 17 38
+R6
+r1
+!s85 0
+31
+Z13 !s108 1736872918.000000
+!s107 C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/Decoder.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4|C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/Decoder.sv|
+!i113 0
+R8
+R9
+R1
+n@decoder
+vGPIO
+R2
+R12
+!i10b 1
+!s100 coBXhf<5W3RAb>U8WlN<M0
+R4
+I^AWEAl:dDB>PR`]?5?lF31
+R5
+S1
+R0
+w1736869429
+8C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/GPIO.sv
+FC:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/GPIO.sv
+!i122 8
+L0 17 37
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/GPIO.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4|C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/GPIO.sv|
+!i113 0
+R8
+R9
+R1
+n@g@p@i@o
+vImmGen
+R2
+R10
+!i10b 1
+!s100 [J^R@@cEKUDn`dShBNYgJ3
+R4
+ILB6YfW]oYA49J=GzT9VKn3
+R5
+S1
+R0
+w1735043266
+8C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/ImmGen.sv
+FC:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/ImmGen.sv
+!i122 5
+L0 17 17
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/ImmGen.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4|C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/ImmGen.sv|
+!i113 0
+R8
+R9
+R1
+n@imm@gen
+vMemoryController
+R2
+R12
+!i10b 1
+!s100 zV]NK@>ECjONVl@bDD^Yh3
+R4
+I:89e:amm`g1?]n2N?IgNK0
+R5
+S1
+R0
+w1736869474
+8C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/MemoryController.sv
+FC:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/MemoryController.sv
+!i122 9
+L0 17 49
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/MemoryController.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4|C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/MemoryController.sv|
+!i113 0
+R8
+R9
+R1
+n@memory@controller
+vRAM
+R2
+R10
+!i10b 1
+!s100 [Q3A^zQ7WDPD4^[CN4aU81
+R4
+IcIl86akS]QFaM_DO:ZK`B3
+R5
+S1
+R0
+w1735043289
+8C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/RAM.sv
+FC:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/RAM.sv
+!i122 6
+L0 17 23
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/RAM.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4|C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/RAM.sv|
+!i113 0
+R8
+R9
+R1
+n@r@a@m
+vRegister
+R2
+R10
+!i10b 1
+!s100 6G=Wc3z3k[Q^o2GBNlNRI2
+R4
+IZTFF3iF4BXC@nFXEJYW>91
+R5
+S1
+R0
+w1735043325
+8C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/Register.sv
+FC:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/Register.sv
+!i122 7
+L0 17 28
+R6
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/Register.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4|C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/Register.sv|
+!i113 0
+R8
+R9
+R1
+n@register
+vRISC4
+R2
+R3
+!i10b 1
+!s100 1j?fY7K2CbdggAHJ=5he>2
+R4
+IiHBYGEJlfU7^T4[og<HAU3
+R5
+S1
+R0
+w1735403389
+8C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/RISC4.sv
+FC:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/RISC4.sv
+!i122 0
+L0 17 86
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/RISC4.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4|C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/RISC4.sv|
+!i113 0
+R8
+R9
+R1
+n@r@i@s@c4
+vROM
+R2
+R12
+!i10b 1
+!s100 Wf:PNSTO3g_7_imo;_f@k1
+R4
+Ii4gJMZl4a^PVcVBCBYjJz3
+R5
+S1
+R0
+w1735043304
+8C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/ROM.sv
+FC:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/ROM.sv
+!i122 11
+L0 17 15
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/ROM.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4|C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/ROM.sv|
+!i113 0
+R8
+R9
+R1
+n@r@o@m
+vTB_RISC
+R2
+R12
+!i10b 1
+!s100 jM_oMcUz^Wz_@cYGfQWgV3
+R4
+IKO:SG<2:=SNA3z9@?61HM0
+R5
+S1
+R0
+w1735403976
+8C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/TB_RISC.sv
+FC:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/TB_RISC.sv
+!i122 12
+L0 3 70
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/TB_RISC.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4|C:/Users/alvar/Downloads/ISDIGI_Practicas/Proyecto3/Fase4/TB_RISC.sv|
+!i113 0
+R8
+R9
+R1
+n@t@b_@r@i@s@c

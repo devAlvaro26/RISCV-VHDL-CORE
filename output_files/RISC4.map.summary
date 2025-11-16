@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Jan 14 17:08:31 2025
+Quartus Prime Version : 17.1.1 Internal Build 593 12/11/2017 SJ Lite Edition
+Revision Name : RISC4
+Top-level Entity Name : RISC4
+Family : Cyclone IV E
+Total logic elements : 569
+    Total combinational functions : 411
+    Dedicated logic registers : 238
+Total registers : 238
+Total pins : 53
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
