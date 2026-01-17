@@ -6,7 +6,7 @@ This project implements a **RISC-V processor core** written in **VHDL**, designe
 
 ## Key Features
 
-- **Architecture:** RISC-V RV32I (academic subset)
+- **Architecture:** RISC-V RV32I
 - **HDL:** VHDL
 - **Execution model:** Single-cycle
 - **Main components:**
@@ -25,6 +25,6 @@ This project implements a **RISC-V processor core** written in **VHDL**, designe
 
 ## Authors
 
-- Rafael Budia Murcia, Paulina Chaufan Wax , Jorge Nisa Navarrete, Alvaro Roca Nacarino, Alejandro Saez Vega, Francesc Tudela Domenech 
+- Rafael Budia Murcia, Paulina Chaufan Wax , Jorge Nisa Navarrete, Álvaro Roca Nacarino, Alejandro Saez Vega, Francesc Tudela Domenech 
 - Universitat Politècnica de València (UPV)
 - 2024-2025
